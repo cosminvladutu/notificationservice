@@ -1,0 +1,1 @@
+Reminder from org {{orgId}}: your appointment is on {{date}}.

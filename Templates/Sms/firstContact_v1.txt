@@ -1,0 +1,1 @@
+Hi! Org {{orgId}} here. Your date is {{date}}. Enjoy {{hobby}}!
